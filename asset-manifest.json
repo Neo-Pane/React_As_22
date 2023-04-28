@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Neo-Pane/React_As_22/static/css/main.815fcac8.css",
+    "main.js": "/Neo-Pane/React_As_22/static/js/main.1e18d427.js",
+    "index.html": "/Neo-Pane/React_As_22/index.html",
+    "main.815fcac8.css.map": "/Neo-Pane/React_As_22/static/css/main.815fcac8.css.map",
+    "main.1e18d427.js.map": "/Neo-Pane/React_As_22/static/js/main.1e18d427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815fcac8.css",
+    "static/js/main.1e18d427.js"
+  ]
+}
